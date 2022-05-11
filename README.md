@@ -1,4 +1,4 @@
-# Realtime-Canvas
+# Realtime-Canvas Demo
 Realtime Collaborative Canvas
 
 
