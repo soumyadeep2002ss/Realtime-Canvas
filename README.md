@@ -1,7 +1,11 @@
-# Realtime-Canvas Demo
+# Realtime-Canvas
 Realtime Collaborative Canvas
 
-![Image 114](https://user-images.githubusercontent.com/64325089/167792583-68c5bc49-3c48-460d-80ca-22ffd22907f5.png)
-https://user-images.githubusercontent.com/64325089/167792432-ce9da04f-8ce2-4327-9ecd-b85fb5421229.mp4
 
+
+
+![Image 114](https://user-images.githubusercontent.com/64325089/167793590-1cf6333c-09fd-4dd9-a41a-0c63fba13bd7.png)
+
+
+https://user-images.githubusercontent.com/64325089/167793670-1a58a48b-9e44-4903-8887-bbfe2f33ee8d.mp4
 
