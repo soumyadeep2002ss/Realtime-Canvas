@@ -7,7 +7,7 @@ This is a collaborative whiteboard that allows real-time communication through s
 https://soumya-realtime-canvas.herokuapp.com/
 ![Image 114](https://user-images.githubusercontent.com/64325089/167793590-1cf6333c-09fd-4dd9-a41a-0c63fba13bd7.png)
 
-[![Screenshot-2022-08-07-00-20-43-317-com-android-chrome.jpg](https://i.postimg.cc/ryvbQycc/Screenshot-2022-08-07-00-20-43-317-com-android-chrome.jpg)](https://postimg.cc/Hj9BLgVP)
+[![Screenshot-2022-08-07-00-20-43-317-com-android-chrome.jpg](https://i.postimg.cc/76jBs9FX/Screenshot-2022-08-07-00-20-43-317-com-android-chrome.jpg)](https://postimg.cc/47bbn6Nh)
 
 
 https://user-images.githubusercontent.com/64325089/167793670-1a58a48b-9e44-4903-8887-bbfe2f33ee8d.mp4
